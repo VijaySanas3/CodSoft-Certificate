@@ -1,3 +1,3 @@
-# CodSoft-Certificate
+# CodSoft Certificate
 
-![Certificate](CodSoft Certificate.png)
+![CodSoft Certificate](CodSoft-Certificate.png)

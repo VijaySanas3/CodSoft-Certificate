@@ -1,14 +1,8 @@
+![CodSoft Certificate](./CodSoft-Certificate.png)
 # Python Internship Certificate - CodSoft
-
+---
 This repository highlights my achievement during the internship program at **CodSoft**, where I successfully completed a training program in **Python Programming**.
 
----
-
-## Certificate
-
-![CodSoft Certificate](./CodSoft-Certificate.png)
-
----
 
 ## Internship Overview
 
